@@ -1,1 +1,1 @@
-Struts to JSTL converter
+Struts to JSTL converter app
